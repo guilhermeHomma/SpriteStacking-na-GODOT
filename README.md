@@ -1,7 +1,7 @@
 
 
 # Stacking Simples
-Uma introdução de como funciona <i>SPRITE STACKING</i> na godot
+Uma introdução de <i>SPRITE STACKING</i> na godot
 
 
 <img src="https://github.com/guilhermeHomma/SpriteStacking-na-GODOT/blob/main/imgs/tower_stack.gif">
@@ -17,3 +17,10 @@ Para chegar neste efeito é preciso 'empilhar' diversas imagens.
 
 Cada uma dessas imagens deve representar uma camada do objeto final visto de cima.
 
+ao posicionar as imagens de forma correta, é possível visualizar as 3 dimensões espaciais (largura, altura e profundiade).
+
+
+
+<h2>Como aplicar isso na GODOT??</h2>
+
+clicando [aqui](https://github.com/guilhermeHomma/SpriteStacking-na-GODOT/blob/main/Github_Staking/SCENES/stacking.gd) você encontra um script bem simples
